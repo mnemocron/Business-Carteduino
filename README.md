@@ -3,11 +3,6 @@ The business card that is also an Arduino compatible.
 
 ![pcb-card.png](images/pcb-card.png)
 
-## Specs
-
-- programmable using an [FTDI Breakout boa
-- rd](https://www.sparkfun.com/products/9716)
-
 ## Partlist
 
 | Pcs. | Part | Value |
